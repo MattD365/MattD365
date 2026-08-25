@@ -53,4 +53,4 @@ Diceware passphrase generator with an honest entropy readout.
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/mdickson1015) · [mattdickson.xyz](https://www.mattdickson.xyz/)
+[LinkedIn](https://www.linkedin.com/in/mdickson1015) · [memattd.com](https://memattd.com)
